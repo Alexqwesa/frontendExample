@@ -1,0 +1,6 @@
+{
+  "FastApiURL": "http://localhost:8004",
+  "FastApiAIURL": "http://localhost:8007",
+  "ElasticURL": "http://localhost:9200",
+  "UseMockServer": "yes"
+}
